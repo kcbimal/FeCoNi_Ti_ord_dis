@@ -1,0 +1,17 @@
+Potential Source:
+https://www.ctcms.nist.gov/potentials/entry/2008--Sa-I-Lee-B--Fe-Ti/2008--Sa-I--Fe-Ti--LAMMPS--ipr1.html
+
+https://www.ctcms.nist.gov/potentials/entry/2020--Oh-S-H-Seol-D-Lee-B-J--Co-Ti/2020--Oh-S-H--Co-Ti--LAMMPS--ipr1.html
+
+https://www.ctcms.nist.gov/potentials/entry/2017--Kim-Y-K-Kim-H-K-Jung-W-S-Lee-B-J--Ni-Ti/
+
+
+Lattice Param Source:
+https://www.tandfonline.com/doi/epdf/10.1080/01418610108214366?needAccess=true
+	        FeTi	CoTi	NiTI
+Lattice Param	2.975	2.996	3.01
+Melt Temp	1593K   1598K   1600K
+Martensitic T   0K      40K     ~320K(room)
+Phase			         imag.(below 320)
+
+

@@ -1,0 +1,3 @@
+find ./ -type d -name 'CoTi_*' -exec cp mjob.sh {} \;
+
+#copy .sh to all subdirectories in which ".sh and all subdir's" are located 
